@@ -1,0 +1,11 @@
+{
+  "name": "MopiBot",
+  "version": "1.0.0",
+  "description": "A discord bot",
+  "repository": "https://github.com/Mopigames/MopiBot.qit",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
